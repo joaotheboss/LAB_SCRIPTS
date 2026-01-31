@@ -1,2 +1,2 @@
-# LAB_SCRIPTS
-Some scripts I used during my laboratory courses
+# LABORATORY SCRIPTS
+These repo contains some scripts I  made to collect and analyse data during laboratory experiences.
